@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ahg:home|Door43 (ahg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ahg|d43-ahg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ahg/archive/master.zip|d43-ahg.zip]]
+
+**Recent Changes**
+{{changes>ns = ahg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ahg|Ethnologue data]]
+
